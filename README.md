@@ -1,1 +1,2 @@
-# Git Mini Lab
+#Git Mini Lab
+Some notes
